@@ -2,6 +2,9 @@
 
 Data Set Viewer enables you to view data sets, including VSAM data sets, in CSV format, using layouts and selection criteria.
 
+## Announcement
+The Data Set Viewer extension is now deprecated and replaced by [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe). Data Set Viewer will be removed from the VS Code Marketplace in March 2022.
+
 ## Use Cases
 - Within an organization, users and administrators can retrieve VSAM data set content for manual post-processing in a spreadsheet of their choice.
 - As a developer, you can verify COBOL program output written into a physical sequential data set.
